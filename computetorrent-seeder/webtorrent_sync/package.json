@@ -1,0 +1,14 @@
+{
+  "name": "webtorrent-sync",
+  "version": "1.0.0",
+  "description": "WebTorrent File Sync Client for ComputeTorrent Seeder (WT-1 to WT-5)",
+  "main": "sync_client.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test tests/test_sync_client.js"
+  },
+  "dependencies": {
+    "webtorrent": "^2.1.0"
+  },
+  "devDependencies": {}
+}

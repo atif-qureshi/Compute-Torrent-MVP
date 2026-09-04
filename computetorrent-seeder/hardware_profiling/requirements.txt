@@ -1,0 +1,3 @@
+psutil>=5.9
+nvidia-ml-py>=13.0   # provides the `pynvml` module; official NVIDIA package (pynvml on PyPI is a deprecated community wrapper)
+pytest>=8.0           # dev/test only
